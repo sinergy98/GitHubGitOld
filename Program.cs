@@ -13,6 +13,7 @@ namespace WebGit
     {
         public static void Main(string[] args)
         {
+            //texto
             CreateHostBuilder(args).Build().Run();
         }
 
